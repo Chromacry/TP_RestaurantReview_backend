@@ -1,0 +1,6 @@
+{
+    "verbose": true,
+    "ignore": [".git", "node_modules/**/node_modules", "package.lock.json"],
+    "watch": ["*.js", "*.css", ".html"],
+    "exec": "node server.js"
+}
